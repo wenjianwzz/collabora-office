@@ -1,4 +1,4 @@
-FROM collabora/code:latest
+FROM collabora/code:6.4.2.2
 
 ADD etc/ /etc/nginx
 USER root
